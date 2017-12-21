@@ -9,5 +9,7 @@ p chris.greeting
 
 p nadia.teach(chris)
 
+p chris.greeting
+
 # Student cannot teach as it is only defined in the instructor class, not
 # inherited from Person class
